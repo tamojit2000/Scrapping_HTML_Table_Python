@@ -1,7 +1,7 @@
 # Scrapping HTML Table Python
  
 ## Library Used 
-pip install htm-l-table-parser-python3
+pip install html-table-parser-python3
 
 ## Sructure
 HTML files present in the raw folder.
